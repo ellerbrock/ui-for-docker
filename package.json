@@ -29,7 +29,7 @@
     "grunt-contrib-jshint": "~1.0.0",
     "grunt-contrib-uglify": "^2.0.0",
     "grunt-contrib-watch": "~1.0.0",
-    "grunt-html2js": "~0.3.6",
+    "grunt-html2js": "~0.3.8",
     "grunt-if": "^0.1.5",
     "grunt-karma": "~2.0.0",
     "grunt-recess": "~1.0.1",
