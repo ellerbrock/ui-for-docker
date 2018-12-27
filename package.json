@@ -33,7 +33,7 @@
     "grunt-if": "^0.1.5",
     "grunt-karma": "~2.0.0",
     "grunt-recess": "~1.0.1",
-    "grunt-shell": "^2.1.0"
+    "grunt-shell": "^3.0.1"
   },
   "scripts": {
     "postinstall": "bower install"
