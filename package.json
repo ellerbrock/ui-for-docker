@@ -31,7 +31,7 @@
     "grunt-contrib-watch": "~1.0.0",
     "grunt-html2js": "~0.3.6",
     "grunt-if": "^0.1.5",
-    "grunt-karma": "~2.0.0",
+    "grunt-karma": "~3.0.2",
     "grunt-recess": "~1.0.1",
     "grunt-shell": "^2.1.0"
   },
